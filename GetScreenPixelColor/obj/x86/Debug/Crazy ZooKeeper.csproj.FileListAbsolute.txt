@@ -1,0 +1,27 @@
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\bin\Debug\GetScreenPixelColor.exe
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\bin\Debug\GetScreenPixelColor.pdb
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\bin\Debug\MouseKeyboardLibrary.dll
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\MainWindow.baml
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\App.g.cs
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GetScreenPixelColor_MarkupCompile.cache
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GetScreenPixelColor.g.resources
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GetScreenPixelColor.Properties.Resources.resources
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GetScreenPixelColor.exe
+C:\Users\Tetsu\Documents\My Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GetScreenPixelColor.pdb
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GetScreenPixelColor.exe
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GetScreenPixelColor.pdb
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\bin\Debug\GetScreenPixelColor.exe
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\bin\Debug\GetScreenPixelColor.pdb
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\MainWindow.baml
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\MainWindow.g.cs
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\App.g.cs
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GetScreenPixelColor_MarkupCompile.cache
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GetScreenPixelColor.g.resources
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GetScreenPixelColor.Properties.Resources.resources
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Dropbox\Project\CrazyZooKeeper\GetScreenPixelColor\obj\x86\Debug\GenerateResource.write.1.tlog

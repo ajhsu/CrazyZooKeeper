@@ -1,0 +1,10 @@
+﻿<Window x:Class="GetScreenPixelColor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Crazy Zoo Keeper" Height="378" Width="293" KeyDown="Window_KeyDown" ResizeMode="NoResize" WindowStyle="SingleBorderWindow" SizeToContent="WidthAndHeight">
+    <Grid>
+        <CheckBox Content="TopMost" Name="UI_CheckBox_AlwaysTop" Checked="UI_CheckBox_AlwaysTop_Changed" Unchecked="UI_CheckBox_AlwaysTop_Changed" IsChecked="True" Margin="10,12,185,310" />
+        <Canvas Height="250" HorizontalAlignment="Left" Margin="10,35,0,0" Name="BoardWrapper" VerticalAlignment="Top" Width="250" Background="#FFE8E8E8"></Canvas>
+        <Image Height="40" Name="image1" Stretch="Fill" Width="40" Source="/GetScreenPixelColor;component/Image/icon.png" Margin="231,299,0,0" />
+    </Grid>
+</Window>
